@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development, Open Source Projects, and riding my bike.
 - 🌱 I’m currently learning Kotlin.
 - 💞️ Android, Linux and Open Source.
-- 📫 Follow me and I will follow back :)
+- 📫 rvaras.dev <at> gmail.com
 
 <!---
 rvaras/rvaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
