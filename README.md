@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rvaras
 - 👀 I’m interested in Android development, Open Source Projects, and riding my bike.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Python (again).
 - 💞️ Android, Linux and Open Source.
 - 📫 rvaras.dev <at> gmail.com
 
